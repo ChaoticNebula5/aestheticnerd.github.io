@@ -55,4 +55,12 @@ $(document).ready(function(){
         loop: true,
     });
 
+	var typed = new Typed(".typing-4", {
+        strings: ["Many of my projects are in development", "Once they are ready for demonstration they'll be presented here.", "Stay tuned."],
+        typeSpeed: 24,
+        backSpeed: 24,
+        loop: true,
+    });
+
 });
+
