@@ -405,6 +405,9 @@ section .heading::after {
 .skills-content .right .python::before {
   width: 100%;
 }
+.skills-content .right .java::before {
+  width: 69%;
+}
 
 footer {
   background: #0a0c0c;
